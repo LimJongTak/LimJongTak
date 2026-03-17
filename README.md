@@ -68,7 +68,7 @@
 
 ### <img src="https://img.icons8.com/color/24/000000/new-post.png" width="22"/> Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whdxkr0715@gmail.com)
 ---
 
 <div align="center">
