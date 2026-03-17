@@ -7,72 +7,78 @@
 ---
 
 ### <img src="https://img.icons8.com/color/24/000000/developer--v1.png" width="22"/> About Me
-**국립순천대학교**를 졸업하였으며, 실무 중심의 앱 및 웹 서비스를 개발하는 데 주력하고 있습니다. 사용자 경험(UX)을 고려한 인터페이스 구현과 효율적인 데이터 처리에 관심이 많습니다.
+[cite_start]**"결과라는 점(Dot)보다, 성장의 선(Line)을 그리는 개발자 임종탁입니다."** [cite: 2, 3]
+[cite_start]국립순천대학교에서 컴퓨터공학을 전공하며 [cite: 12][cite_start], 4만 명의 트래픽을 견디는 서비스부터 지역 상생을 위한 플랫폼까지 실사용자를 위한 가치를 창출해왔습니다. [cite: 61, 146]
 
-- 📱 **Mobile App Development** — Flutter를 활용한 크로스 플랫폼 앱 설계 및 최적화
-- 🏛️ **Student Leadership** — 국립순천대학교 제41대 총학생회 부총학생회장
-- 🚀 **Problem Solver** — 기획부터 배포까지, 사용자 피드백을 바탕으로 서비스를 개선하는 과정을 즐깁니다.
-- 🌱 **Learning Focus** — 현재 React/Next.js 기반의 웹 생태계와 안정적인 백엔드 아키텍처를 학습 중입니다.
+- [cite_start]🚀 **High Traffic Experience** — 대학 축제 사이트 개발 팀장으로서 약 4만 명의 실사용자 트래픽을 안정적으로 처리 [cite: 22, 61, 63]
+- [cite_start]🏛️ **Proven Leadership** — 2025 국립순천대학교 총학생회 부회장 및 축제준비위원장 역임 [cite: 21, 22]
+- [cite_start]🤝 **Social Impact** — 100여 개 업체와의 협력을 통해 지역 상권 활성화 시스템 '이음' 구축 [cite: 140, 143]
+- [cite_start]🤖 **AI-Driven Engineer** — Gemini, Cursor, Claude 등 AI 도구를 적극 활용하여 비즈니스 로직과 사용자 가치에 집중 [cite: 165, 168, 173]
 
 <br/>
 
 ### <img src="https://img.icons8.com/color/24/000000/settings--v1.png" width="22"/> Tech Stack
 
 **Languages**
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks & Libraries**
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Design & Multimedia**
-
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 <br/>
 
 ### <img src="https://img.icons8.com/color/24/000000/rocket--v1.png" width="22"/> Featured Projects
 
-#### 🌐 Web & Brand Services
-
+#### 📱 Mobile App Development
 | 프로젝트 | 설명 | 기술 |
 |-----------|------|------|
-| **Mush-Eat Web Catalog** | 비건 햄 브랜드 'Mush-Eat'의 랜딩 페이지 및 웹 카탈로그 | React, Tailwind CSS |
-| **Personal Portfolio** | 프로젝트 경험과 기술 역량을 집약한 개인 포트폴리오 웹사이트 | React, Node.js |
-| **RISE Platform Planning** | 교육 및 연구 인프라 공유 플랫폼 기획 및 설계 참여 | UI/UX Design |
+| **오고가고** | [cite_start]2026 경조사 장부 관리 플랫폼 앱 서비스 [cite: 29] | Flutter, Dart |
+| **RE:POINT** | [cite_start]지역 상권 활성화를 위한 포인트 적립 및 스캔 서비스 [cite: 31, 82] | Flutter, AI |
+| **순덕방** | [cite_start]대학로 원룸 정보 제공 서비스 [cite: 33] | Android Studio |
 
-#### 📱 Mobile & Games
-
+#### 🌐 Web Services
 | 프로젝트 | 설명 | 기술 |
 |-----------|------|------|
-| **Maze Generator** | 레벨 조절 및 PDF 출력 기능을 갖춘 미로 생성 프로그램 | Python, Canvas API |
-| **Lottery/Scratch Game** | 모바일 반응형 관리자 모드 포함 경품 추첨 서비스 | JavaScript, Mobile-Responsive |
-| **Flutter App (Ongoing)** | 사용자 인터랙션 중심의 크로스 플랫폼 애플리케이션 개발 | Flutter, Dart |
+| **SCNU Festival** | [cite_start]4만 명의 트래픽을 기록한 국립순천대학교 축제 공식 웹사이트 [cite: 30, 61] | React, Vite, Caching |
+| **Mush-Eat** | [cite_start]비건 햄 제품 소개를 위한 다국어 최적화 웹 카탈로그 [cite: 32, 156] | React, i18n, Vite |
+| **MyWay** | [cite_start]산책로 트래픽 정보 및 로컬 커뮤니티 플랫폼 [cite: 33, 159] | React, Kakao Map API |
+| **Pedaleye** | [cite_start]급발진 사고 데이터 분석 및 시각화 (학생 창업유망팀 300+) [cite: 22, 158] | React, Data Visualization |
+
+<br/>
+
+### <img src="https://img.icons8.com/color/24/000000/medal.png" width="22"/> Awards & Activities
+- [cite_start]🏆 **교육부 주관 학생 창업유망팀 300+** 선정 및 교육부장관 인증서 수여 [cite: 36, 37]
+- [cite_start]🏆 **지역현안 문제해결 경진대회 우수상** (총장상) [cite: 38]
+- [cite_start]🦁 **멋쟁이사자처럼 12기 대학 대표** 및 13기 운영진 활동 [cite: 22, 24]
+- [cite_start]🤝 **한국장학재단 대학생 재능봉사** 27기 팀장 [cite: 27]
 
 <br/>
 
 ### <img src="https://img.icons8.com/color/24/000000/new-post.png" width="22"/> Contact
+- [cite_start]**Email:** [tak6030@naver.com](mailto:tak6030@naver.com) [cite: 9]
+- [cite_start]**GitHub:** [github.com/LimJongTak](https://github.com/LimJongTak) [cite: 11]
+- [cite_start]**Phone:** 010-6716-6030 [cite: 10]
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:whdxkr0715@gmail.com)
 ---
 
 <div align="center">
 
-_"사용자의 목소리를 기술로 구현하는 개발자, 임종탁입니다."_
+[cite_start]_"배우고 성장하며 함께 '상생의 선'을 그려나가는 든든한 팀원이 되겠습니다."_ [cite: 180]
 
 </div>
