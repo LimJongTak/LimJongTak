@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./profile.jpg" width="150" style="border-radius: 50%;" alt="임종탁 프로필 사진"/>
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Lim+Jong-tak+%F0%9F%91%8B;App+%26+Web+Developer;Building+User-Centric+Solutions.)](https://git.io/typing-svg)
 
 </div>
@@ -9,7 +13,15 @@
 ### <img src="https://img.icons8.com/color/24/000000/developer--v1.png" width="22"/> About Me
 **"결과라는 점(Dot)보다, 성장의 선(Line)을 그리는 개발자 임종탁입니다."**
 
-국립순천대학교에서 컴퓨터공학을 전공하며, 4만 명의 트래픽을 견디는 서비스부터 지역 상생을 위한 플랫폼까지 실사용자를 위한 가치를 창출해왔습니다.
+국립순천대학교 컴퓨터공학과에 재학 중이며, 4만 명의 트래픽을 견디는 서비스부터 지역 상생을 위한 플랫폼까지 실사용자를 위한 가치를 창출해왔습니다.
+
+| | |
+|---|---|
+| 👤 **이름** | 임종탁 (Lim Jong-tak) |
+| 🎓 **학교** | 국립순천대학교 컴퓨터공학과 |
+| 📍 **위치** | 대한민국 전라남도 순천 |
+| 💼 **관심 분야** | App · Web · AI 융합 서비스 |
+| 📧 **이메일** | tak6030@naver.com |
 
 - 🚀 **High Traffic Experience** — 대학 축제 사이트 개발 팀장으로서 약 4만 명의 실사용자 트래픽을 안정적으로 처리
 - 🏛️ **Proven Leadership** — 2025 국립순천대학교 총학생회 부회장 및 축제준비위원장 역임
