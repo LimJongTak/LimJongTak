@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpg" width="150" style="border-radius: 50%;" alt="임종탁 프로필 사진"/>
+<img src="https://raw.githubusercontent.com/LimJongTak/LimJongTak/main/profile.jpg" width="150" style="border-radius: 50%;" alt="임종탁 프로필 사진"/>
 
 <br/>
 
