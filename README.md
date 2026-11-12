@@ -1,5 +1,5 @@
 <!-- Header Wave (animated) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7F52FF,100:58A6FF&height=180&section=header&text=Lim%20Jong-tak&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=App%20%C2%B7%20Web%20%C2%B7%20AI%20Developer&descAlignY=56&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7F52FF,100:58A6FF&height=180&section=header&text=Lim%20JongTak&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=App%20%C2%B7%20Web%20%C2%B7%20AI%20Developer&descAlignY=56&descSize=18&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Lim+Jong-tak+%F0%9F%91%8B;App+%26+Web+Developer;AI-Driven+Engineer+%F0%9F%A4%96;Building+User-Centric+Solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Lim+JongTak+%F0%9F%91%8B;App+%26+Web+Developer;AI-Driven+Engineer+%F0%9F%A4%96;Building+User-Centric+Solutions.)](https://git.io/typing-svg)
 
 <a href="https://github.com/LimJongTak"><img src="https://img.shields.io/github/followers/LimJongTak?label=Followers&style=social"/></a>
 <img src="https://komarev.com/ghpvc/?username=LimJongTak&label=Profile%20Views&color=58A6FF&style=flat"/>
