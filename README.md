@@ -1,5 +1,5 @@
 <!-- Header Wave (animated) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7F52FF,100:58A6FF&height=180&section=header&text=Lim%20JongTak&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=App%20%C2%B7%20Web%20%C2%B7%20AI%20Developer&descAlignY=56&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=200&section=header&text=LIM%20JONGTAK&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=App%20%C2%B7%20Web%20%C2%B7%20AI%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -170,4 +170,4 @@ _"배우고 성장하며 함께 '상생의 선'을 그려나가는 든든한 팀
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7F52FF,100:58A6FF&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
