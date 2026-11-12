@@ -143,7 +143,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LimJongTak&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-<!-- 🐍 Snake animation: .github/workflows/snake.yml 워크플로가 output 브랜치에 생성 -->
+<!-- 🐍 Snake animation: .github/snake.yml 워크플로가 output 브랜치에 생성 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LimJongTak/LimJongTak/output/github-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/LimJongTak/LimJongTak/output/github-snake.svg" />
