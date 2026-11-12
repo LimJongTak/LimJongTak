@@ -1,5 +1,5 @@
 <!-- Header (animated SVG) -->
-<img src="./assets/header.svg" width="100%" alt="Lim JongTak"/>
+<img src="./header.svg" width="100%" alt="Lim JongTak"/>
 
 <div align="center">
 
@@ -171,4 +171,4 @@ _"배우고 성장하며 함께 '상생의 선'을 그려나가는 든든한 팀
 </div>
 
 <!-- Footer (animated SVG) -->
-<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting"/>
+<img src="./footer.svg" width="100%" alt="Thanks for visiting"/>
