@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Lim+JongTak+%F0%9F%91%8B;App+%26+Web+Developer;AI-Driven+Engineer+%F0%9F%A4%96;Building+User-Centric+Solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Lim+JongTak+%F0%9F%91%8B;App+%26+Web+Developer;AI-Driven+Engineer+%F0%9F%A4%96;Building+User-Centric+Solutions.)](https://git.io/typing-svg)
 
 <a href="https://github.com/LimJongTak"><img src="https://img.shields.io/github/followers/LimJongTak?label=Followers&style=social"/></a>
 <img src="https://komarev.com/ghpvc/?username=LimJongTak&label=Profile%20Views&color=58A6FF&style=flat"/>
@@ -136,14 +136,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LimJongTak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimJongTak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
+<!-- 🔥 Streak (외부 서비스, 정상 동작) -->
 <img src="https://streak-stats.demolab.com?user=LimJongTak&theme=tokyonight&hide_border=true" width="80%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LimJongTak&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<!-- 📊 .github/workflows/profile-summary-cards.yml 이 레포 안에 직접 생성 -->
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
 
-<!-- 🐍 Snake animation: .github/workflow/snake.yml 워크플로가 output 브랜치에 생성 -->
+<!-- 🐍 .github/workflows/snake.yml 이 output 브랜치에 생성 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LimJongTak/LimJongTak/output/github-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/LimJongTak/LimJongTak/output/github-snake.svg" />
